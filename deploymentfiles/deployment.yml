@@ -17,7 +17,7 @@ spec:
     spec:
       containers:
       - name: mc-app
-        image: nagasai49/batch14:5
+        image: nagasai49/batch14:3
         ports:
         - containerPort: 8080
 
